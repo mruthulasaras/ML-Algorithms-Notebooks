@@ -1,19 +1,42 @@
-**Machine Learning Algorithms**
+# 📚 Machine Learning Practice – Regression & Tree Models
 
-This repository contains beginner-friendly Jupyter notebooks that demonstrate the implementation of essential machine learning algorithms and data preprocessing techniques using Python. It is part of my learning journey in data science and machine learning.
+Welcome to my machine learning practice repository!  
 
-**Contents**
+This collection of Jupyter notebooks includes my hands-on experiments with fundamental ML models and preprocessing techniques using Python.
 
-✅Simple Linear Regressin.ipynb:	Implements simple linear regression for predicting a continuous variable from one feature.
+---
 
-✅Polynomial Regression.ipynb:	Shows how to model non-linear relationships using polynomial features.
+## 📦 What's Inside
 
-✅One Hot Encoding.ipynb:	Demonstrates categorical variable encoding using one-hot encoding.
+- 🔢 **Simple Linear Regression**  
+- 🧮 **Polynomial Regression**  
+- 🧠 **Multilinear Regression**  
+- 📉 **Logistic Regression**  
+- 🌲 **Decision Tree Classifier**  
+- ⚡ **XGBoost Classifier**  
+- 🎛️ **One Hot Encoding** *(Feature Engineering)*
 
-✅Multilinear Regression.ipynb:	Applies multiple linear regression using multiple independent variables.
+---
 
-✅Logistic Regression.ipynb:	Classification algorithm used for binary outcomes (e.g., yes/no, 0/1).
+## 🛠 Built With
 
-✅XGBOOST.ipynb:	Advanced ensemble technique (Gradient Boosting) for powerful predictive modeling.
+- **Language:** Python 3  
+- **Notebook Environment:** Jupyter Notebook  
+- **Libraries Used:**  
+  - `NumPy`, `Pandas` – for data manipulation  
+  - `Matplotlib`, `Seaborn` – for data visualization  
+  - `Scikit-learn` – for ML models and preprocessing  
+  - `XGBoost` – gradient boosting framework  
 
-✅DECISION TREE.ipynb:	Decision tree classifier for modeling decision rules and outcomes.
+---
+
+## 🎯 Objective
+
+This project was created while I was learning the basics of machine learning.  
+It helped me build an understanding of how popular models work, and how to:
+
+- Prepare data for modeling  
+- Visualize results  
+- Train and evaluate simple models  
+
+
